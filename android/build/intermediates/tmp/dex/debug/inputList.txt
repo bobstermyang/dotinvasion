@@ -1,0 +1,14 @@
+/Users/ManuGil/Documents/LibGDX/Juegos/Ultra Squares/android/build/intermediates/classes/debug
+/Users/ManuGil/Documents/LibGDX/Juegos/Ultra Squares/android/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-6ef9b7185d266c2c9f09dabe8f4f8bbba9533b9f.jar
+/Users/ManuGil/Documents/LibGDX/Juegos/Ultra Squares/android/build/intermediates/pre-dexed/debug/classes-1bf019ca33a394cd3731080b2784ed937b40cfb5.jar
+/Users/ManuGil/Documents/LibGDX/Juegos/Ultra Squares/android/build/intermediates/pre-dexed/debug/tween-engine-api-b280f607ff97784d58a3bc3b0046b0d21a3bda6c.jar
+/Users/ManuGil/Documents/LibGDX/Juegos/Ultra Squares/android/build/intermediates/pre-dexed/debug/tween-engine-api-sources-1fc549152c9f3efeafaee0714592b6df4fa00bdd.jar
+/Users/ManuGil/Documents/LibGDX/Juegos/Ultra Squares/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.5.3-39275f1f0a5b603461ae2ff33692fbeec323e484.jar
+/Users/ManuGil/Documents/LibGDX/Juegos/Ultra Squares/android/build/intermediates/pre-dexed/debug/core-1.0-ba1864b34bbb7336b8be33ee58928bc571cb7812.jar
+/Users/ManuGil/Documents/LibGDX/Juegos/Ultra Squares/android/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-edc23cdd154c014c53e79e6ab6b0a54f5cbb95d2.jar
+/Users/ManuGil/Documents/LibGDX/Juegos/Ultra Squares/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.5.3-deff98e7e388918e952f066ac0ba11f23fe89bf2.jar
+/Users/ManuGil/Documents/LibGDX/Juegos/Ultra Squares/android/build/intermediates/pre-dexed/debug/classes-304f4358ffc77712d28885af260c8fd09d8e1756.jar
+/Users/ManuGil/Documents/LibGDX/Juegos/Ultra Squares/android/build/intermediates/pre-dexed/debug/pushbots.2.0.8-c4829a1b0d1d300f0c1da39640dfeeaf02e13711.jar
+/Users/ManuGil/Documents/LibGDX/Juegos/Ultra Squares/android/build/intermediates/pre-dexed/debug/classes-2d73ecc3610a26df9b3aaabec1888dfbdf719faf.jar
+/Users/ManuGil/Documents/LibGDX/Juegos/Ultra Squares/android/build/intermediates/pre-dexed/debug/gdx-1.5.3-5d60b51d5083002052be761999dcf5c3cba5ccb4.jar
+/Users/ManuGil/Documents/LibGDX/Juegos/Ultra Squares/android/build/intermediates/pre-dexed/debug/classes-f5c50c13156677d7cb1d0b997475fa628320f31d.jar

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/classes-05f2fce82f4aa997c31add5926bbd307ebb54631.jar" />
+    </item>
+    <item
+        jar="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/classes-1c0fb9d69dd29b7249b3e3c322744a55f7c21270.jar" />
+    </item>
+    <item
+        jar="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/classes-028722ecfd6689bbc60356aba766a75d7080ba13.jar" />
+    </item>
+    <item
+        jar="/home/bobbyyang/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/support-annotations-21.0.0-c41aaad4b38362b33a5dc8522db42234161b4fe4.jar" />
+    </item>
+    <item
+        jar="/home/bobbyyang/Desktop/Ultra Squares/libs/pushbots.2.0.8.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ce4bea2913877c52da7461537961e71611ec8666">
+        <dex dex="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/pushbots.2.0.8-475eb991fb39684cab014eca19778235e4a9a7ef.jar" />
+    </item>
+    <item
+        jar="/home/bobbyyang/Desktop/Ultra Squares/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6d2ac4044fd440c6c751239e6a1194523e248639">
+        <dex dex="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/core-1.0-c1be212604b35ca9afbf68daf0ac007ce0b76ec9.jar" />
+    </item>
+    <item
+        jar="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/exploded-aar/Ultra Squares/BaseGameUtils/1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0958c9dabb2b2162e0a79161a819ebfca4d9bd7a">
+        <dex dex="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/classes-17b6ea50c55b038bb31432633d49655705ba44d3.jar" />
+    </item>
+    <item
+        jar="/home/bobbyyang/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.5.3/903703e4eca4d27092cf61412b7a583aa26d14ad/gdx-backend-android-1.5.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="903703e4eca4d27092cf61412b7a583aa26d14ad">
+        <dex dex="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/gdx-backend-android-1.5.3-cb83daacd2f0256f8f93a6f80666bb92684d83bb.jar" />
+    </item>
+    <item
+        jar="/home/bobbyyang/Desktop/Ultra Squares/libs/tween-engine-api.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
+        <dex dex="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/tween-engine-api-05fac661abc4a01f480181cc3ad8e29a7972c689.jar" />
+    </item>
+    <item
+        jar="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/internal_impl-21.0.0-aa893231c6f87c481d2ebceb823200020d8f6e0a.jar" />
+    </item>
+    <item
+        jar="/home/bobbyyang/Desktop/Ultra Squares/libs/tween-engine-api-sources.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b471c161e1bd73eb4a762a35d75b40eb5b4de3a1">
+        <dex dex="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/tween-engine-api-sources-c6aa403144801e5a59f13f66fdc53c4cce7d0eb6.jar" />
+    </item>
+    <item
+        jar="/home/bobbyyang/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.5.3/52bc9ff881a6eb1731eb2f54b5016425cae05024/gdx-box2d-1.5.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="52bc9ff881a6eb1731eb2f54b5016425cae05024">
+        <dex dex="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/gdx-box2d-1.5.3-1f4c129276934bbcf5b81b730ffe7d84572bc595.jar" />
+    </item>
+    <item
+        jar="/home/bobbyyang/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.3/3b8f2a7e697b097735ec8fd2b9d576d0959cb7c9/gdx-1.5.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b8f2a7e697b097735ec8fd2b9d576d0959cb7c9">
+        <dex dex="/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/gdx-1.5.3-d1a2ebe2c9b732a4599d5ba2af4d4c6add1c936e.jar" />
+    </item>
+
+</items>

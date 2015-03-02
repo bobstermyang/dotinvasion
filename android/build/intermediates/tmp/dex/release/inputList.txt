@@ -1,0 +1,14 @@
+/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/classes/release
+/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/support-annotations-21.0.0-c41aaad4b38362b33a5dc8522db42234161b4fe4.jar
+/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/classes-17b6ea50c55b038bb31432633d49655705ba44d3.jar
+/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/tween-engine-api-05fac661abc4a01f480181cc3ad8e29a7972c689.jar
+/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/tween-engine-api-sources-c6aa403144801e5a59f13f66fdc53c4cce7d0eb6.jar
+/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/gdx-box2d-1.5.3-1f4c129276934bbcf5b81b730ffe7d84572bc595.jar
+/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/core-1.0-c1be212604b35ca9afbf68daf0ac007ce0b76ec9.jar
+/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/internal_impl-21.0.0-aa893231c6f87c481d2ebceb823200020d8f6e0a.jar
+/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/gdx-backend-android-1.5.3-cb83daacd2f0256f8f93a6f80666bb92684d83bb.jar
+/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/classes-1c0fb9d69dd29b7249b3e3c322744a55f7c21270.jar
+/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/pushbots.2.0.8-475eb991fb39684cab014eca19778235e4a9a7ef.jar
+/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/classes-05f2fce82f4aa997c31add5926bbd307ebb54631.jar
+/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/gdx-1.5.3-d1a2ebe2c9b732a4599d5ba2af4d4c6add1c936e.jar
+/home/bobbyyang/Desktop/Ultra Squares/android/build/intermediates/pre-dexed/release/classes-028722ecfd6689bbc60356aba766a75d7080ba13.jar
